@@ -1,0 +1,30 @@
+{"gameRecords": [
+    {
+        "player1Name": "Alice",
+        "difficulty": "Hard",
+        "winnerName": "Alice",
+        "player2Name": "Bob",
+        "datePlayed": "2025-01-15T14:30:00"
+    },
+    {
+        "player1Name": "John",
+        "difficulty": "Easy",
+        "winnerName": "Mary",
+        "player2Name": "Mary",
+        "datePlayed": "2024,11,15"
+    },
+    {
+        "player1Name": "Chris",
+        "difficulty": "Medium",
+        "winnerName": "Chris",
+        "player2Name": "Dana",
+        "datePlayed": "2025,1,10"
+    },
+    {
+        "player1Name": "Tea",
+        "difficulty": "easy",
+        "winnerName": "Tea",
+        "player2Name": "Cup",
+        "datePlayed": "15,1,2025,"
+    }
+]}

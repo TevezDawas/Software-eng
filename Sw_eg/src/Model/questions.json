@@ -1,0 +1,158 @@
+{
+    "questions": [
+        {
+            "difficulty": "1",
+            "question": "What is a key characteristic of requirements in Agile development?",
+            "answers": [
+                "Fixed and comprehensive upfront",
+                " Evolving and adaptable",
+                "Documented exclusively by analysts",
+                "Created after development begins"
+            ],
+            "correct_ans": "1"
+        },
+        {
+            "difficulty": "1",
+            "question": "In Agile, who is primarily responsible for defining and prioritizing requirements?",
+            "answers": [
+                "Project Manager",
+                "Development Team",
+                " Product Owner",
+                "QA Tester"
+            ],
+            "correct_ans": "2"
+        },
+        {
+            "difficulty": "2",
+            "question": "What is the purpose of surveys in Agile retrospectives?",
+            "answers": [
+                "Measure team velocity",
+                " Collect feedback on team collaboration",
+                "Assess customer satisfaction",
+                "Define sprint goals"
+            ],
+            "correct_ans": "1"
+        },
+        {
+            "difficulty": "2",
+            "question": "What type of survey is commonly used to measure customer satisfaction in Agile?",
+            "answers": [
+                "Sprint Retrospective Survey",
+                " Net Promoter Score (NPS)",
+                "Effort Estimation Survey",
+                "Risk Assessment Survey"
+            ],
+            "correct_ans": "1"
+        },
+        {
+            "difficulty": "3",
+            "question": "How does Agile handle software architecture decisions?",
+            "answers": [
+                "Comprehensive documentation upfront",
+                " Iterative and incremental approach",
+                "No focus on architecture",
+                "Centralized control by the architect"
+            ],
+            "correct_ans": "1"
+        },
+        {
+            "difficulty": "3",
+            "question": "What is the primary goal of Agile architecture?",
+            "answers": [
+                " To ensure flexibility and adaptability",
+                "To create detailed design documentation",
+                "To assign responsibility to a single architect",
+                "To avoid refactoring during development"
+            ],
+            "correct_ans": "0"
+        },
+        {
+            "difficulty": "2",
+            "question": "How does Agile address software maintenance?",
+            "answers": [
+                " Through regular refactoring and testing",
+                "By postponing until after deployment",
+                "By outsourcing maintenance tasks",
+                "By minimizing code reviews"
+            ],
+            "correct_ans": "0"
+        },
+        {
+            "difficulty": "2",
+            "question": "In Agile, how are bugs typically handled during maintenance?",
+            "answers": [
+                "Addressed in a separate maintenance phase",
+                " Added to the backlog and prioritized",
+                "Ignored if they are minor issues",
+                "Fixed only after release cycles"
+            ],
+            "correct_ans": "1"
+        },
+        {
+            "difficulty": "1",
+            "question": "Which testing approach aligns with Agile principles?",
+            "answers": [
+                "End-of-project testing only",
+                " Continuous and automated testing",
+                "Rigid testing plans established upfront",
+                "Testing only by a dedicated QA team"
+            ],
+            "correct_ans": "1"
+        },
+        {
+            "difficulty": "1",
+            "question": "In Agile, what is the primary benefit of test-driven development (TDD)?",
+            "answers": [
+                "Faster delivery timelines",
+                " Improved code quality and design",
+                "Elimination of all bugs",
+                "Reduction of documentation needs"
+            ],
+            "correct_ans": "1"
+        },
+        {
+            "difficulty": "1",
+            "question": "What is a user story in Agile?",
+            "answers": [
+                "A detailed specification document",
+                " A high-level description of user needs",
+                "A technical requirement for developers",
+                "A testing scenario"
+            ],
+            "correct_ans": "1"
+        },
+        {
+            "difficulty": "2",
+            "question": "Which Agile event is most likely to benefit from team feedback surveys?",
+            "answers": [
+                "Daily Standups",
+                " Sprint Retrospectives",
+                "Sprint Planning",
+                "Sprint Reviews"
+            ],
+            "correct_ans": "1"
+        },
+        {
+            "difficulty": "3",
+            "question": "What is the concept of 'emergent design' in Agile?",
+            "answers": [
+                "Planning the entire architecture upfront",
+                " Allowing the design to evolve with development",
+                "Outsourcing architectural tasks",
+                "Ignoring architecture altogether"
+            ],
+            "correct_ans": "1"
+        },
+        {
+            "difficulty": "2",
+            "question": "What is the role of a QA engineer in Agile teams?",
+            "answers": [
+                "Writing detailed test plans before development begins",
+                " Collaborating with developers to ensure quality",
+                "Isolated testing at the end of development",
+                "Reporting bugs after deployment"
+            ],
+            "correct_ans": "1"
+        }
+    ]
+}

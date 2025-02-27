@@ -1,0 +1,1 @@
+java --module-path "openjfx-17.0.13_windows-x64_bin-sdk\javafx-sdk-17.0.13\lib2" --add-modules javafx.controls,javafx.fxml,javafx.media -jar JarFileBackgmmon.jar
